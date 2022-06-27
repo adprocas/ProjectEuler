@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\GeneralLibrary\EulerGeneralLibrary.csproj" />
+    <ProjectReference Include="..\EulerGeneralLibrary\EulerGeneralLibrary.csproj" />
   </ItemGroup>
 
 </Project>

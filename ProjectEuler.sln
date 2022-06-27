@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler1MultiplesOf3And5", "MultiplesOf3And5\Euler1MultiplesOf3And5.csproj", "{E087206C-E727-4C13-8B4D-62B777B0BFD2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler1MultiplesOf3And5", "Euler1MultiplesOf3And5\Euler1MultiplesOf3And5.csproj", "{E087206C-E727-4C13-8B4D-62B777B0BFD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler2EvenFibonacciNumbers", "EvenFibonacciNumbers\Euler2EvenFibonacciNumbers.csproj", "{9B9BAC0C-1CDF-42F7-B7C4-BD97B3334A4B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler2EvenFibonacciNumbers", "Euler2EvenFibonacciNumbers\Euler2EvenFibonacciNumbers.csproj", "{9B9BAC0C-1CDF-42F7-B7C4-BD97B3334A4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EulerGeneralLibrary", "GeneralLibrary\EulerGeneralLibrary.csproj", "{0E123D7F-C6C3-4A1A-B005-1D10B6CCFA57}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EulerGeneralLibrary", "EulerGeneralLibrary\EulerGeneralLibrary.csproj", "{0E123D7F-C6C3-4A1A-B005-1D10B6CCFA57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler3LargestPrimeFactor", "LargestPrimeFactor\Euler3LargestPrimeFactor.csproj", "{10C07983-0FA4-4F3A-955F-3DABF0F9638B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler3LargestPrimeFactor", "Euler3LargestPrimeFactor\Euler3LargestPrimeFactor.csproj", "{10C07983-0FA4-4F3A-955F-3DABF0F9638B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler4LargestPalindromeProduct", "Euler4LargestPalindromeProduct\Euler4LargestPalindromeProduct.csproj", "{7D1F497B-A3C6-4BAC-A0DC-730F182A2C21}"
 EndProject
