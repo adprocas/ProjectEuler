@@ -3,21 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler1MultiplesOf3And5", "Euler1MultiplesOf3And5\Euler1MultiplesOf3And5.csproj", "{E087206C-E727-4C13-8B4D-62B777B0BFD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Euler1MultiplesOf3And5", "Euler1MultiplesOf3And5\Euler1MultiplesOf3And5.csproj", "{E087206C-E727-4C13-8B4D-62B777B0BFD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler2EvenFibonacciNumbers", "Euler2EvenFibonacciNumbers\Euler2EvenFibonacciNumbers.csproj", "{9B9BAC0C-1CDF-42F7-B7C4-BD97B3334A4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Euler2EvenFibonacciNumbers", "Euler2EvenFibonacciNumbers\Euler2EvenFibonacciNumbers.csproj", "{9B9BAC0C-1CDF-42F7-B7C4-BD97B3334A4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EulerGeneralLibrary", "EulerGeneralLibrary\EulerGeneralLibrary.csproj", "{0E123D7F-C6C3-4A1A-B005-1D10B6CCFA57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EulerGeneralLibrary", "EulerGeneralLibrary\EulerGeneralLibrary.csproj", "{0E123D7F-C6C3-4A1A-B005-1D10B6CCFA57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler3LargestPrimeFactor", "Euler3LargestPrimeFactor\Euler3LargestPrimeFactor.csproj", "{10C07983-0FA4-4F3A-955F-3DABF0F9638B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Euler3LargestPrimeFactor", "Euler3LargestPrimeFactor\Euler3LargestPrimeFactor.csproj", "{10C07983-0FA4-4F3A-955F-3DABF0F9638B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler4LargestPalindromeProduct", "Euler4LargestPalindromeProduct\Euler4LargestPalindromeProduct.csproj", "{7D1F497B-A3C6-4BAC-A0DC-730F182A2C21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Euler4LargestPalindromeProduct", "Euler4LargestPalindromeProduct\Euler4LargestPalindromeProduct.csproj", "{7D1F497B-A3C6-4BAC-A0DC-730F182A2C21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler5SmallestMultiple", "Euler5SmallestMultiple\Euler5SmallestMultiple.csproj", "{B74BFC09-C37D-4932-8DB0-085122710D94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Euler5SmallestMultiple", "Euler5SmallestMultiple\Euler5SmallestMultiple.csproj", "{B74BFC09-C37D-4932-8DB0-085122710D94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler6SumSquareDifference", "Euler6SumSquareDifference\Euler6SumSquareDifference.csproj", "{874B51E8-6EBC-4D3C-8BF8-7F7A41C3A554}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Euler6SumSquareDifference", "Euler6SumSquareDifference\Euler6SumSquareDifference.csproj", "{874B51E8-6EBC-4D3C-8BF8-7F7A41C3A554}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler7_10001stPrime", "Euler7_10001stPrime\Euler7_10001stPrime.csproj", "{D53F4854-ACA0-4617-8461-D7D8B6396910}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Euler7_10001stPrime", "Euler7_10001stPrime\Euler7_10001stPrime.csproj", "{D53F4854-ACA0-4617-8461-D7D8B6396910}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler8LargestProductInSeries", "Euler8LargestProductInSeries\Euler8LargestProductInSeries.csproj", "{BDFCD954-2FBA-4935-BCA4-72AA538CACD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -193,6 +195,26 @@ Global
 		{D53F4854-ACA0-4617-8461-D7D8B6396910}.Release|x64.Build.0 = Release|Any CPU
 		{D53F4854-ACA0-4617-8461-D7D8B6396910}.Release|x86.ActiveCfg = Release|Any CPU
 		{D53F4854-ACA0-4617-8461-D7D8B6396910}.Release|x86.Build.0 = Release|Any CPU
+		{BDFCD954-2FBA-4935-BCA4-72AA538CACD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFCD954-2FBA-4935-BCA4-72AA538CACD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFCD954-2FBA-4935-BCA4-72AA538CACD1}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{BDFCD954-2FBA-4935-BCA4-72AA538CACD1}.Debug|ARM.Build.0 = Debug|Any CPU
+		{BDFCD954-2FBA-4935-BCA4-72AA538CACD1}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{BDFCD954-2FBA-4935-BCA4-72AA538CACD1}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{BDFCD954-2FBA-4935-BCA4-72AA538CACD1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BDFCD954-2FBA-4935-BCA4-72AA538CACD1}.Debug|x64.Build.0 = Debug|Any CPU
+		{BDFCD954-2FBA-4935-BCA4-72AA538CACD1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BDFCD954-2FBA-4935-BCA4-72AA538CACD1}.Debug|x86.Build.0 = Debug|Any CPU
+		{BDFCD954-2FBA-4935-BCA4-72AA538CACD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFCD954-2FBA-4935-BCA4-72AA538CACD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDFCD954-2FBA-4935-BCA4-72AA538CACD1}.Release|ARM.ActiveCfg = Release|Any CPU
+		{BDFCD954-2FBA-4935-BCA4-72AA538CACD1}.Release|ARM.Build.0 = Release|Any CPU
+		{BDFCD954-2FBA-4935-BCA4-72AA538CACD1}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{BDFCD954-2FBA-4935-BCA4-72AA538CACD1}.Release|ARM64.Build.0 = Release|Any CPU
+		{BDFCD954-2FBA-4935-BCA4-72AA538CACD1}.Release|x64.ActiveCfg = Release|Any CPU
+		{BDFCD954-2FBA-4935-BCA4-72AA538CACD1}.Release|x64.Build.0 = Release|Any CPU
+		{BDFCD954-2FBA-4935-BCA4-72AA538CACD1}.Release|x86.ActiveCfg = Release|Any CPU
+		{BDFCD954-2FBA-4935-BCA4-72AA538CACD1}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
